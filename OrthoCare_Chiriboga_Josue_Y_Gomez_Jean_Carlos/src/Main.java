@@ -12,7 +12,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        ArrayList<Paciente> pacientes = new ArrayList<>();
+        ArrayList<Paciente> pacientes = new ArrayList<Paciente>();
         ArrayList<Sala> salas = new ArrayList<Sala>();
         ArrayList<Cita> citas = new ArrayList<Cita>();
         ArrayList<Doctor> doctores = new ArrayList<Doctor>();
